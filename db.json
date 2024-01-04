@@ -1,0 +1,64 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Sample shopping list",
+      "items": [
+        {
+          "id": 1,
+          "item-name": "toilet paper",
+          "purchased": false
+        }
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "title": "Sample shopping list",
+      "items": [
+        {
+          "id": 1,
+          "item-name": "toilet paper",
+          "purchased": false
+        }
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z",
+      "id": 10
+    },
+    {
+      "title": "Sample shopping list2",
+      "items": [
+        {
+          "id": 1,
+          "item-name": "toilet paper",
+          "purchased": false
+        }
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z",
+      "id": 11
+    }
+  ]
+}
